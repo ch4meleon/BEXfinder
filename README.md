@@ -31,9 +31,9 @@ go run main.go all
 ## Checking Browser Extensions/Plugins Online
 Example: To check if the extensions/plugins from the official websites:
 ```
-go run main.go
+go run main.go chrome
 ```
-![Example 2](https://i.ibb.co/92MWWqT/check-online.png "Example 2")
+![Example 2](https://i.ibb.co/8dFS0pT/check-online.png "Example 2")
 
 ## Installation
 To install the dependencies used by BEXfinder, run:
