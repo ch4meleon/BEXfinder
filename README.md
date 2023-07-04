@@ -13,6 +13,7 @@ Currently Supported Browsers:
 More are coming...
 
 <img align="center" src="./screenshot.png" />
+![Example usage](https://i.ibb.co/wLjc2Mt/screenshot.png "Example usage")
 
 > Please feel free to contribute to this project. If you have an idea or improvement issue a pull request!
 
@@ -28,6 +29,13 @@ To retrive all browsers extensions found on the system, run:
 go run main.go all
 ```
 
+## Checking Browser Extensions/Plugins Online
+Example: To check if the extensions/plugins from the official websites:
+```
+go run main.go
+```
+![Example usage](https://i.ibb.co/GMD0zkK/checkonline.png "Example usage")
+
 ## Installation
 To install the dependencies used by BEXfinder, run:
 ```
@@ -40,3 +48,5 @@ go install
 
 ## Contact
 ch4meleon@protonmail-dot-com
+
+
