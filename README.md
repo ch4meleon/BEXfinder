@@ -23,15 +23,15 @@ The author bears no responsibility for any misuse of the tool.
 
 
 ## To Run All
-To retrive all browsers extensions found on the system, run:
+Example: On Linux, to retrive all browsers extensions found on the system, run:
 ```
-bexfinder all
+./bexfinder all
 ```
 
 ## Checking Browser Extensions/Plugins Online
-Example: To check if the extensions/plugins from the official websites:
+Example: On Linux system, to check if the extensions/plugins from the official websites:
 ```
-bexfinder chrome
+./bexfinder chrome --check
 ```
 ![Example 2](https://i.ibb.co/8dFS0pT/check-online.png "Example 2")
 
