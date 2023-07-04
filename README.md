@@ -10,6 +10,8 @@ Currently Supported Browsers:
 5. Mozilla FireFox
 6. Opera Browser
 
+More are coming...
+
 <img align="center" src="./screenshot.png" />
 
 > Please feel free to contribute to this project. If you have an idea or improvement issue a pull request!
@@ -20,17 +22,20 @@ This tool is only for academic purposes and testing  under controlled environmen
 The author bears no responsibility for any misuse of the tool.
 
 
-## To Run
+## To Run All
+To retrive all browsers extensions found on the system, run:
 ```
-go run main.go
+go run main.go all
 ```
 
 ## Installation
+To install the dependencies used by BEXfinder, run:
 ```
 go install
 ```
 
 ### Development
+
 
 
 ## Contact
