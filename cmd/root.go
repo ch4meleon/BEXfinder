@@ -24,7 +24,7 @@ var rootCmd = &cobra.Command{
 	Use:     "bexfinder",
 	Version: version,
 	Short:   "Browsers Extensions Finder (BEXfinder)",
-	Long:    "\nBrowsers Extensions Finder (BEXfinder) is a cross-platform and portable command-line tool to find all web browsers extensions (Google Chrome, Brave browsers extensions, FireFox browsers plugins) installed on system.",
+	Long:    "\nBrowsers Extensions Finder (BEXfinder) is a cross-platform and portable command-line tool to find all web browsers (Google Chrome, Microsoft Edge, Brave Browser, Mozilla FireFox, Opera, etc.) extensions installed on system.",
 
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
