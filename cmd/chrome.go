@@ -26,7 +26,7 @@ var chromeCmd = &cobra.Command{
 		custom_chrome_profile, _ := cmd.Flags().GetString("custom_chrome_profile")
 
 		// Start
-		fmt.Printf("%s", blue("[Google Chrome Browsers / Brave Browsers]\n"))
+		fmt.Printf("%s", blue("[Google Chrome Browsers]\n"))
 
 		if custom_chrome_profile == "" {
 			helper.FindChromeBrowserExtensions(to_save, to_check_online, is_save_all)
