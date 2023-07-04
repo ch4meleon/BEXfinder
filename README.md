@@ -12,7 +12,6 @@ Currently Supported Browsers:
 
 More are coming...
 
-<img align="center" src="./screenshot.png" />
 ![Example usage](https://i.ibb.co/wLjc2Mt/screenshot.png "Example usage")
 
 > Please feel free to contribute to this project. If you have an idea or improvement issue a pull request!
