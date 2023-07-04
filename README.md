@@ -33,7 +33,7 @@ Example: To check if the extensions/plugins from the official websites:
 ```
 go run main.go
 ```
-![Example usage](https://i.ibb.co/GMD0zkK/checkonline.png "Example usage")
+![Example 2](https://i.ibb.co/92MWWqT/check-online.png "Example 2")
 
 ## Installation
 To install the dependencies used by BEXfinder, run:
