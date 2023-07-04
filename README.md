@@ -25,25 +25,23 @@ The author bears no responsibility for any misuse of the tool.
 ## To Run All
 To retrive all browsers extensions found on the system, run:
 ```
-go run main.go all
+bexfinder all
 ```
 
 ## Checking Browser Extensions/Plugins Online
 Example: To check if the extensions/plugins from the official websites:
 ```
-go run main.go chrome
+bexfinder chrome
 ```
 ![Example 2](https://i.ibb.co/8dFS0pT/check-online.png "Example 2")
 
-## Installation
-To install the dependencies used by BEXfinder, run:
-```
-go install
-```
 
 ### Development
-
-
+To install the dependencies used by BEXfinder and run it:
+```
+go install
+go run main.go
+```
 
 ## Contact
 ch4meleon@protonmail-dot-com
