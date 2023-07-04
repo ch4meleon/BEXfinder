@@ -1,10 +1,14 @@
-# CloudFail
+# BEXfinder
 
-Browsers Extensions Finder (BEXfinder) is a cross-platform and portable command-line tool to find all web browsers extensions (Google Chrome, Brave browsers extensions, FireFox browsers plugins) installed on system.
+Browsers Extensions Finder (BEXfinder) is a cross-platform and portable command-line tool to find all web browsers (Google Chrome, Microsoft Edge, Brave Browser, Mozilla FireFox, Opera, etc.) extensions installed on system.
 
-1. Misconfigured DNS scan using DNSDumpster.com.
-2. Scan the Crimeflare.com database.
-3. Bruteforce scan over 2500 subdomains.
+Currently Supported Browsers:
+1. Google Chrome
+2. Microsoft Edge
+3. Brave Browser
+4. Vivaldi
+5. Mozilla FireFox
+6. Opera Browser
 
 <img align="center" src="./screenshot.png" />
 
