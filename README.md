@@ -12,6 +12,8 @@ Currently Supported Browsers:
 
 More are coming...
 
+![Main](https://i.ibb.co/fDHNx8F/main.png "Main")
+
 > Please feel free to contribute to this project. If you have an idea or improvement issue a pull request!
 
 #### Disclaimer
@@ -25,7 +27,7 @@ Example: On Linux, to retrive all browsers extensions found on the system, run:
 ```
 ./bexfinder all
 ```
-![Example usage](https://i.ibb.co/wLjc2Mt/screenshot.png "Example usage")
+![Example 1](https://i.ibb.co/wLjc2Mt/screenshot.png "Example 1")
 
 ## Checking Browser Extensions/Plugins Online
 Example: On Linux system, to check if the extensions/plugins from the official websites:
