@@ -23,14 +23,14 @@ The author bears no responsibility for any misuse of the tool.
 
 
 ## To Run All
-Example: On Linux, to retrive all browsers extensions found on the system, run:
+Example: To obtain all the browsers extensions/plugins found on the system, run:
 ```
 ./bexfinder all
 ```
 ![Example 1](https://i.ibb.co/wLjc2Mt/screenshot.png "Example 1")
 
 ## Checking Browser Extensions/Plugins Online
-Example: On Linux system, to check if the extensions/plugins from the official websites:
+Example: To check if the extensions/plugins from the official websites:
 ```
 ./bexfinder chrome --check
 ```
@@ -38,7 +38,7 @@ Example: On Linux system, to check if the extensions/plugins from the official w
 
 
 ## Custom Profile Location
-If you are not using default profile locations for the browser, you may put the location lists and use 'custom' command with '--file'
+If you are not using default profile locations for the browser, you may put the profile locations in a list, and use 'custom' command with '--file' to use the list.
 ```
 ./bexfinder custom --file custom.txt
 ```
