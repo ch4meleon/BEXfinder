@@ -37,7 +37,15 @@ Example: On Linux system, to check if the extensions/plugins from the official w
 ![Example 2](https://i.ibb.co/8dFS0pT/check-online.png "Example 2")
 
 
-### Development
+## Custom Profile Location
+If you are not using default profile locations for the browser, you may put the location lists and use 'custom' command with '--file'
+```
+./bexfinder custom --file custom.txt
+```
+![Example 3](https://i.ibb.co/W67bb61/custom.png "Example 3")
+
+
+## Development
 To install the dependencies used by BEXfinder and run it:
 ```
 go install
