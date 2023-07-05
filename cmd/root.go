@@ -21,10 +21,11 @@ var is_save_all bool = false
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:     "bexfinder",
+	Use:     "bexfinder [command] [flags]",
 	Version: version,
 	Short:   "Browsers Extensions Finder (BEXfinder)",
 	Long:    "\nBrowsers Extensions Finder (BEXfinder) is a cross-platform and portable command-line tool to find all web browsers (Google Chrome, Microsoft Edge, Brave Browser, Mozilla FireFox, Opera, etc.) extensions installed on system.",
+	Example: "bexfinder all",
 
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
